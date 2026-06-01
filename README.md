@@ -1,2 +1,2 @@
 # singlePageApp
-my info
+my info This is my information
